@@ -1,0 +1,30 @@
+body {
+  padding-top: 5rem;
+  background: none;
+}
+
+.default-jumbo {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+
+.default-jumbo h1,p {
+  font-family: 'Tangerine', serif;
+  color: brown;
+}
+
+.default-jumbo h1 {
+    font-size: 5em;
+}
+
+.default-jumbo p {
+    font-size: 3em;
+}
+
+html { 
+  background: url(bg.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
